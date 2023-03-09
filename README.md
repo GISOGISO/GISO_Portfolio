@@ -10,7 +10,7 @@
 
 # [Python Project 3: Crypto data automation and analysis](https://github.com/GISOGISO/Crypto-data-automation-and-analysis)
 * Build automated program to pull cryptocurrency price from Coinmarketcap periodically.
-* Analyse price change of the top 15 cryptocurrency and visualise the result.
+* Analyse price change of the top 15 cryptocurrencies and visualise the result.
 
 # [Python Project 4: Film data correlation analysis](https://github.com/GISOGISO/Film-data-correlation-analysis)
 * Find correlation between film budget, gross profit, production companies, ratings, etc by scrapping and analysing over 5,000 movie titles from Rotten Tomatoes 
