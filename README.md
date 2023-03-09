@@ -6,7 +6,7 @@
 * Scraped over 5,000 movie titles from Rotten Tomatoes, an American review-aggregation website for film and television using python.
 * Optimized numpy, seaborn, matplotlib to analyse the correlation between various data and visualise the result.
 
-# [Project 2: Amazon web scrapper]
+# [Project 2: Amazon web scrapper](https://github.com/GSOdata/Amazon-web-scrapper)
 * Scrape data of a product from Amazon to find product details
 * Connect to Amazon through API
 * Automate the code to send email notification to user when price is below certain level
