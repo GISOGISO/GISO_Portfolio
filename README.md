@@ -1,4 +1,4 @@
-# My python project portfolio
+# My Python project portfolio
 
 
 # [Project 1: Film data correlation analysis](https://github.com/GISOGISO/Film-data-correlation-analysis)
