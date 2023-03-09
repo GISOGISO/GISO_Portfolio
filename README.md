@@ -7,9 +7,8 @@
 * Optimized numpy, seaborn, matplotlib to analyse the correlation between various data and visualise the result.
 
 # [Python Project 2: Amazon web scrapper](https://github.com/GISOGISO/Amazon-web-scrapper)
-* Scrape data of a product from Amazon to find product details
-* Connect to Amazon through API
-* Automate the code to send email notification to user when price is below certain level
+* Scrape data from Amazon for product analysis and build automated email program to send notification to user when price drops
+* Optimized API, BeautifulSoup, Requests and smtplib in Python for data scrapping and email automation
 
 # [Python Project 3: Financial data analysis](https://github.com/GISOGISO/Financial-data-analysis)
 * Scrape data from Yahoo finance to make financial analysis and models
