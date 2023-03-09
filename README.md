@@ -14,3 +14,5 @@
 # [Project 3: Financial data analysis](https://github.com/GISOGISO/Financial-data-analysis)
 * Scrape data from Yahoo finance to make financial analysis and models
 * CAPM, regression, Monte Carlo, etc.
+
+https://github.com/GISOGISO/Crypto-data-automation-and-analysis
