@@ -15,4 +15,12 @@
 * Scrape data from Yahoo finance to make financial analysis and models
 * CAPM, regression, Monte Carlo, etc.
 
-https://github.com/GISOGISO/Crypto-data-automation-and-analysis
+# [Project 4: Crypto-data-automation-and-analysis](https://github.com/GISOGISO/Crypto-data-automation-and-analysis)
+* automating crypto API pull
+* data cleaning
+* data visualisation
+
+
+
+
+
