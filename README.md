@@ -13,9 +13,8 @@
 * Analyse price change of the top 15 cryptocurrencies and visualise the result.
 
 # [Python Project 4: Film data correlation analysis](https://github.com/GISOGISO/Film-data-correlation-analysis)
-* Find correlation between film budget, gross profit, production companies, ratings, etc by analysing over 5,000 movie titles from Rotten Tomatoes 
-* Create a heatmap to visualise the correlation. 
-* Optimized numpy, seaborn, matplotlib for data analyis and visualisation.
-
+* Find correlation of gross revenue vs budget, production companies and ratings by analysing over 5,000 film titles from 1980-2020 with data scrape from iMDb. 
+* Visualise data using correlation matrix heatmap, regression plot and scatter plot.  
+* Optimized numpy, seaborn, matplotlib, pandas for data cleaning and preprocessing, data analysis and visualisation.
 
 
