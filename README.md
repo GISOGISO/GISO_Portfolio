@@ -1,4 +1,4 @@
-# My project portfolio
+# Project portfolio
 
 # [Python Project 1: Financial data analysis](https://github.com/GISOGISO/Financial-data-analysis)
 * Find the optimal securities portfolio for investors with different risk appetite using the Markowitz Optimization theory.
