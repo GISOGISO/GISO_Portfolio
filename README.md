@@ -11,4 +11,8 @@
 * Visualise data using correlation matrix heatmap, regression plot and scatter plot.  
 * Optimized numpy, seaborn, matplotlib, pandas for data cleaning and preprocessing, data analysis and visualisation.
 
-
+# [Python Project 3: Cryptocurrencies data automation demo](https://github.com/GISOGISO/Crypto_data_automation_demo)
+* Engineered an automated API pull program to get crypto data from Coinmarketcap periodically.
+* Data cleaning  
+* Data visualisation  
+* Optimized requests, json, os, time, seaborn etc. to reach the best model. 
