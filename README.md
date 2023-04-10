@@ -25,7 +25,7 @@
 
 
 ## [SQL/tableau projects](https://github.com/GISOGISO/Covid19_data_analysis)
-### [Covid-19 data analysis and visualisation](https://github.com/GISOGISO/Covid19_data_analysis)
+### [1. Covid-19 data analysis and visualisation](https://github.com/GISOGISO/Covid19_data_analysis)
 * Extracted covid-19 Data from [Our World in Data](https://ourworldindata.org/covid-deaths#)
 * Skills used in SQL: Data pre-processing, data cleaning, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 * Analysed and investigated covid-19 data in relation to mortality/cases/infections/vaccinations by continent/countries/worldwide
@@ -36,6 +36,19 @@
 
 #### [II. Time series and maps analysis dashboard](https://public.tableau.com/app/profile/gi.so/viz/Covid-19dataanalysis-Timeseriesandmap/Timeseriesandmap?publish=yes)  
 ![](https://github.com/GISOGISO/SQL-Tableau/blob/main/images/TS%20and%20maps.png)
+
+
+### [2. SQL data cleaning demo - US housing](https://github.com/GISOGISO/SQL_data_cleaning_demo_US_housing/blob/main/project_codes.sql)
+
+* Preprocessed and cleaned data for future analysis
+* Skills used in SQL: Data pre-processing, data cleaning, null values, Joins, duplications, etc
+
+#### Project highlights:
+1. Deal with null values
+2. Populate Addresses and breakdown the address into Address, City, State
+3. Clean the "Sold as Vacant" field by consolidating all values to Yes/No
+4. Remove duplicates and delete unneccesary columns
+
 
 
 
